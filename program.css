@@ -1,0 +1,36 @@
+ .Lesson {
+ 	background-color: #007A99;
+ 	border:10px inset silver;
+ 	margin: 15px;
+ 	border-radius: 30px;
+ 	text-align: center;
+ }
+ .L1 {
+ 	text-align: center;
+ 	background-color: #66CCFF;
+  	padding: 6px;
+ 	border: 10px outset silver;
+ 	border-radius: 20px;
+ }
+ h3 {
+ 	background-color: silver;
+ }
+ ul,ol {
+ 	text-align: left;
+ 	font-family: courier;
+ 	font-size: 20px;
+ }
+
+ body {
+    background-color: #00001F;
+    }
+
+  .Title {
+  	text-align: center;
+  	background-color: #007A99;
+ 	border:10px inset silver;
+ 	margin: 5px;
+ 	border-radius: 30%;
+ 	font-size: 25px;
+ 	font-family: sans-serif;
+  }
